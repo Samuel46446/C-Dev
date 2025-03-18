@@ -33,6 +33,7 @@ int main()
 		std::cout << "La cha" << char(140) << "ne n'est pas un palindrome" << std::endl;
 	}
 
-	delete[] b; //Libération de la mémoire
+	delete[] b; //Libï¿½ration de la mï¿½moire
+	std::cin.ignore();
 	return 0;
 }

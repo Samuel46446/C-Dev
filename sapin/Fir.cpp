@@ -46,5 +46,6 @@ int main()
 		delete[] tab[i];
 	}
 	delete[] tab;
+	std::cin.ignore();
 	return 0;
 }

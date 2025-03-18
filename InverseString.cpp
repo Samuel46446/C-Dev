@@ -24,6 +24,7 @@ int main()
 
 	std::cout << std::endl;
 	
-	delete[] b; //Libération de la mémoire
+	delete[] b; //Libï¿½ration de la mï¿½moire
+	std::cin.ignore();
 	return 0;
 }

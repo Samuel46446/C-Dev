@@ -46,5 +46,6 @@ int main()
 
 	std::cout << samus.isDead() << std::endl;
 	
+	std::cin.ignore();
     return 0;
 }

@@ -23,5 +23,6 @@ int main()
 
 		std::cout << "1 = " << result << std::endl;
 	}
+	std::cin.ignore();
 	return 0;
 }

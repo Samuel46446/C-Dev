@@ -24,6 +24,6 @@ int main()
 
 	double moyenne = somme / maxNotes;
 	std::cout << "La Moyenne de ces notes est : " << moyenne << std::endl;
-
+	std::cin.ignore();
 	delete[] notes;
 }

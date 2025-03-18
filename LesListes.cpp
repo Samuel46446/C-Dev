@@ -44,4 +44,6 @@ int main()
 	{
 		std::cout << *rit << " | ";
 	}
+
+	std::cin.ignore();
 }

@@ -57,4 +57,6 @@ int main()
 	{
 		e.afficher();
 	}
+
+	std::cin.ignore();
 }
